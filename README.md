@@ -1,0 +1,2 @@
+# edmund-hack
+Hack help
